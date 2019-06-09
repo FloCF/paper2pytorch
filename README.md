@@ -11,12 +11,12 @@ Some paper implementations are still in progress.
 
 Here is the current list of papers:
 #### GAN
-* [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434)
+* DCGAN -> [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434)
 #### Image-to-Image Translation (more GANs)
-* [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004)
-* [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593)
+* pix2pix ->[Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004)
+* cycleGAN -> [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593)
 #### Style Transfer
-* [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://cs.stanford.edu/people/jcjohns/eccv16/)
-* Neural Style Transfer (Combination of the following papers):
+* fast_style -> [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://cs.stanford.edu/people/jcjohns/eccv16/)
+* neural_style_transfer (Combination of the following papers):
     - [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
     - [Controlling Perceptual Factors in Neural Style Transfer](https://arxiv.org/abs/1611.07865)
