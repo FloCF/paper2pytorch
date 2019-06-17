@@ -1,10 +1,9 @@
 # Paper2Pytorch
-pytorch implementation of some computer vison research papers
  
 ## Goal
 
-The goal of project is to implement the main ideas of research papers into pytorch code. The code is thus not meant to review all results given in the paper, but rather to get a feeling about how the algorithm runs. I usually lean myself on some existing code in a different deep learning framework or language, e.g. tensorflow, torch, theano and transform into pytorch. I try to cite clearly what my main sources are, but wont be able to cite all sources from e.g. quick solution googleing. If you feel I used your idea, I am more than happy to give credits to you.
-I code every project in one comprehensive iPython notebook, mainly because it lets you run them in Google Colab with GPU support for free.
+The goal of project is to implement the main ideas of research papers into pytorch code. The code is thus not meant to review all results given in the paper, but rather to get a feeling for the underlying algorithms. I usually lean myself on some existing code from a different deep learning framework or language, e.g. tensorflow, torch, theano and transform it into pytorch. I try to cite clearly what my main sources are, but won't be able to cite all sources from e.g. quick solution searches. If you feel I used your idea, I am more than happy to give credits to you.
+I code every project in one comprehensive Jupyter notebook, mainly because it lets you run them in Google Colab with GPU support for freebut also I feel that notebook are great ways to share knowledge.
 
 ## Papers
 
