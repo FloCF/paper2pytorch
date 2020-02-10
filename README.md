@@ -11,7 +11,7 @@ I code every project in one comprehensive Jupyter notebook, mainly because it le
 Some paper implementations are still in progress. 
 
 Here is the current list of papers:
-#### GAN
+#### GANs
 * DCGAN -> [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434)
 #### Image-to-Image Translation
 * pix2pix -> [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004)
