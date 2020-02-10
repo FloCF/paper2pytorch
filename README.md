@@ -13,7 +13,7 @@ Some paper implementations are still in progress.
 Here is the current list of papers:
 #### GAN
 * DCGAN -> [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434)
-#### Image-to-Image Translation (more GANs)
+#### Image-to-Image Translation
 * pix2pix -> [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004)
 * cycleGAN -> [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593)
 #### Image Inpainting
