@@ -23,4 +23,4 @@ Here is the current list of papers:
 
 ## Saved Models
 
-All models that have been training with the published code are available on my [google drive](https://drive.google.com/drive/folders/1qSebyz5fwMFonhR8-fkDtup8-IwHsOa0?usp=sharing)
+All models that have been training with the published code are available on my [google drive](https://drive.google.com/drive/folders/1qSebyz5fwMFonhR8-fkDtup8-IwHsOa0?usp=sharing).
