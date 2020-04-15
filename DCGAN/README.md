@@ -2,7 +2,9 @@
 
 ### Alec Radford, Luke Metz & Soumith Chintala
 
-Saved weights can be found on my [gdrive](https://drive.google.com/drive/folders/1qSebyz5fwMFonhR8-fkDtup8-IwHsOa0?usp=sharing).
+This is my [PyTorch](https://pytorch.org/) implementation of the DCGAN algorithm. It was my first *paper2pytorch* project and is heavly build on the official PyTorch [DCGAN Tutorial](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html).
+
+Saved weights for the results below can be found on my [gdrive](https://drive.google.com/drive/folders/1qSebyz5fwMFonhR8-fkDtup8-IwHsOa0?usp=sharing).
 
 #### Result
 <img src="images/result_DCGAN.png">
