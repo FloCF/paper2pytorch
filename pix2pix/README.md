@@ -18,6 +18,18 @@ All results are trained from scratch with the presented code.
  </tr>
  <tr>
     <td>Not available yet...</td>
-    <td><img src="images/result-cityscapes_BtoA.png"></td>
+    <td><img src="images/result-cityscapes_BtoA.png" width="300"></td>
+ </tr>
+  <tr>
+    <td><img src="images/result-facades_AtoB.png.png" width="300"></td>
+    <td><img src="images/result-facades_BtoA.png.png" width="300"></td>
+ </tr>
+  <tr>
+    <td><img src="images/result-edges2shoes_AtoB.png" width="300"></td>
+    <td>Not available yet...</td>
+ </tr>
+ <tr>
+    <td>Not available yet...</td>
+    <td><img src="images/result-maps_BtoA.png" width="300"></td>
  </tr>
 </table>
