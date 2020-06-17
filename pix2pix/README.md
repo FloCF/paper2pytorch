@@ -9,13 +9,15 @@ Saved weights for the results below can be found on my [gdrive](https://drive.go
 #### Result
 All results are trained from scratch with the presented code.
 
+<img src="images/result_DCGAN.png">
+
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
+    <td><b style="font-size:30px">A-to-B</b></td>
+    <td><b style="font-size:30px">B-to-A</b></td>
  </tr>
  <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
+    <td>Not available yet...</td>
+    <td><img src="images/result-cityscapes_BtoA.png"></td>
  </tr>
 </table>
