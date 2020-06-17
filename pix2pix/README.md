@@ -7,7 +7,15 @@ This is my [PyTorch](https://pytorch.org/) implementation of the pix2pix algorit
 Saved weights for the results below can be found on my [gdrive](https://drive.google.com/drive/folders/1qSebyz5fwMFonhR8-fkDtup8-IwHsOa0?usp=sharing).
 
 #### Result
-Results are trained from scratch with the presented code.
+All results are trained from scratch with the presented code.
 
-<img src="images/result_DCGAN.png">
-
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
