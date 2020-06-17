@@ -9,9 +9,7 @@ Saved weights for the results below can be found on my [gdrive](https://drive.go
 #### Result
 All results are trained from scratch with the presented code.
 
-<img src="images/result_DCGAN.png">
-
-<table border="0">
+<table cellspacing="0" cellpadding="0">
  <tr>
     <td><b style="font-size:30px">A-to-B</b></td>
     <td><b style="font-size:30px">B-to-A</b></td>
