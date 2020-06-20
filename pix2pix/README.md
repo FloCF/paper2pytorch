@@ -15,7 +15,7 @@ All results are trained from scratch with the presented code.
     <td><b style="font-size:30px">B-to-A</b></td>
  </tr>
  <tr>
-    <td>Not available yet...</td>
+    <td><img src="images/result-cityscapes_AtoB.png" width="400"></td>
     <td><img src="images/result-cityscapes_BtoA.png" width="400"></td>
  </tr>
   <tr>
