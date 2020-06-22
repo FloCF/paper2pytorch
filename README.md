@@ -1,5 +1,6 @@
-# Paper2Pytorch
- 
+# paper2pytorch
+PyTorch implementation of various Papers.
+
 ## Goal
 
 The goal of project is to implement the main ideas of research papers into pytorch code. The code is thus not meant to review all results given in the paper, but rather to get a feeling for the underlying algorithms.
