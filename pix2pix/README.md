@@ -27,6 +27,10 @@ All results are trained from scratch with the presented code.
     <td>Not available yet...</td>
  </tr>
  <tr>
+    <td><img src="images/result-edges2handbags_AtoB.png" width="400">Not finsihed yet...</td>
+    <td>Not available yet...</td>
+ </tr>
+ <tr>
     <td>Not available yet...</td>
     <td><img src="images/result-maps_BtoA.png" width="400"></td>
  </tr>
