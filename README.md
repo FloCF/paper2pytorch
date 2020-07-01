@@ -1,5 +1,4 @@
 # paper2pytorch
-PyTorch implementation of various Papers.
 
 ## Goal
 
