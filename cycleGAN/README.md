@@ -10,5 +10,5 @@ Saved weights for the results below can be found on my [gdrive](https://drive.go
 
 Since these models are quite big and given I only use free colab for computation, all models are still in training. Results will be posted once a model is finished.
 
-Horse2Zebra (still in progress, ~50 epochs so far):
+**Horse2Zebra (still in progress, ~50 epochs so far):**
 <img src="images/result-horse2zebra.png">
