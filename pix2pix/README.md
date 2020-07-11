@@ -11,7 +11,7 @@ All results are trained from scratch with the presented code.
 
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">A-to-B</b></td>
+    <td style="text-align: center; vertical-align: middle;"><b style="font-size:30px">A-to-B</b></td>
     <td><b style="font-size:30px">B-to-A</b></td>
  </tr>
  <tr>
