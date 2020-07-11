@@ -11,8 +11,8 @@ All results are trained from scratch with the presented code.
 
 <table border="0">
  <tr>
-    <td style="text-align: center; vertical-align: middle;"><b style="font-size:30px">A-to-B</b></td>
-    <td><b style="font-size:30px">B-to-A</b></td>
+    <th>A-to-B</td>
+    <th>B-to-A</td>
  </tr>
  <tr>
     <td><img src="images/result-cityscapes_AtoB.png" width="400"></td>
